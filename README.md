@@ -56,3 +56,4 @@ Por el patrón **Page Object Model (POM)**, que ofrece:
 4. Hacer clic en el botón **Run Test** que aparece sobre los métodos `@Test`.
 
 ---
+<img width="225" height="132" alt="image" src="https://github.com/user-attachments/assets/e5bb3bb3-8924-443a-b9eb-48c7b136a168" />
